@@ -1,3 +1,3 @@
-# Adventure Game in Vanilla JS
+# Functional Adventure
 
-Created to learn functional programming concepts in vanilla JavaScript.
+Adventure game written to explore functional programming concepts in vanilla JavaScript.
